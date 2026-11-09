@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! 👋 I'm Neelima
 
-<!--
-**Neelimakella/Neelimakella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student | Aspiring VLSI Engineer
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 🌱 Interested in VLSI Design and Semiconductor Technology.
+- 💡 Exploring Digital Design and Electronics.
+- 🐍 Learning Python and improving my programming skills.
+- 🚀 Passionate about learning new technologies and building projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Areas of Interest
+- VLSI Design
+- Semiconductor Technology
+- Digital Electronics
+- AI and Technology
+
+### 🛠️ Currently Learning
+- Python
+- Data Structures & Algorithms
+- VLSI Fundamentals
+
+### 🤝 Connect With Me
+- GitHub: [@Neelimakella](https://github.com/Neelimakella)
+
+---
+
+⭐ *Learning, Building and Growing Every Day!*
